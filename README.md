@@ -5,7 +5,7 @@
 Paste your PRD or feature brief and get back exactly what your engineers,
 designers, and skeptical VP will say — before the review meeting.
 
-🔗 **[Live demo](YOUR_VERCEL_URL)**
+🔗 **[Live demo] https://spec-roast-13.vercel.app/ )**
 
 ---
 
